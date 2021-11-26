@@ -1,0 +1,7 @@
+nama: dida aditya sasmita
+kelas: XI RPL 2
+alamat: Kp.sekeawi
+umur:16 tahun
+sekolah: SMK assalaam bandung
+
+note: saya sedang belajar awalan github
